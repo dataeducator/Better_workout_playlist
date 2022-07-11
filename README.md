@@ -3,6 +3,14 @@
 # ${1:betterWorkout.ipynb}
 
 During the pandemic, many of us began to focus on our personal health. I found myself as one among many of my friends who found time to work out, eat better, drink water and mind our business. However, after some of the restrictions were lifted, I found myself slipping back into older, less beneficial habits. This project is one of many in my pursuit of a better work life balance. 
+
+
+<img width="63" alt="wordcloud-header" src="https://user-images.githubusercontent.com/107881738/178278736-b6468c6c-5cf1-4633-84a3-705e9cd36d79.png">
+<img width="365" alt="capture1" src="https://user-images.githubusercontent.com/107881738/178278737-5b4a6f4d-030d-484e-bba0-51b72d820a3f.png">
+<img width="431" alt="capture2" src="https://user-images.githubusercontent.com/107881738/178278738-ffe7371c-0ae6-49d6-bc15-c7d05b03e0ee.png">
+<img width="473" alt="capture3" src="https://user-images.githubusercontent.com/107881738/178278740-79924378-3c0b-4aa6-b06e-f86afbc3f521.png">
+
+
 ## Installation
 If you use [conda](https://docs.conda.io/en/latest/), [mamba](https://mamba.readthedocs.io/en/latest/), or [pip](https://docs.python.org/3/installing/index.html), you can install JupyterLab with one of the following commands.
 
