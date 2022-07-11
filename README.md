@@ -5,8 +5,8 @@
 During the pandemic, many of us began to focus on our personal health. I found myself as one among many of my friends who found time to work out, eat better, drink water and mind our business. However, after some of the restrictions were lifted, I found myself slipping back into older, less beneficial habits. This project is one of many in my pursuit of a better work life balance. 
 
 <p align="center" width="100%">
-    <img width="32%"  alt="capture1" src="https://user-images.githubusercontent.com/107881738/178288707-eda49825-bede-4e33-89a4-1bddd292cc4c.png">
-    <img width="32%" "alt="capture2" src="https://user-images.githubusercontent.com/107881738/178288947-fc902ce3-a2a6-4991-8577-8cead86a8155.png">
+    <img width="32%"  alt="capture1" src="https://user-images.githubusercontent.com/107881738/178288947-fc902ce3-a2a6-4991-8577-8cead86a8155.png" >
+    <img width="32%" "alt="capture2" src="https://user-images.githubusercontent.com/107881738/178288707-eda49825-bede-4e33-89a4-1bddd292cc4c.png" >
     <img width="32%" alt="capture3" src="https://user-images.githubusercontent.com/107881738/178289536-26d551dd-e5e4-40f4-849a-928e37203a8b.png">
 </p>
 
