@@ -1,7 +1,6 @@
 <snippet>
   <content><![CDATA[
 # ${1:betterWorkout.ipynb}
-<img width="125" alt="wordcloud-header" src="https://user-images.githubusercontent.com/107881738/178278736-b6468c6c-5cf1-4633-84a3-705e9cd36d79.png">
 During the pandemic, many of us began to focus on our personal health. I found myself as one among many of my friends who found time to work out, eat better, drink water and mind our business. However, after some of the restrictions were lifted, I found myself slipping back into older, less beneficial habits. This project is one of many in my pursuit of a better work life balance. 
 
 
@@ -9,6 +8,7 @@ During the pandemic, many of us began to focus on our personal health. I found m
 <td><img width="250" alt="capture1" src="https://user-images.githubusercontent.com/107881738/178278737-5b4a6f4d-030d-484e-bba0-51b72d820a3f.png"></td>
 <td><img width="250" alt="capture2" src="https://user-images.githubusercontent.com/107881738/178278738-ffe7371c-0ae6-49d6-bc15-c7d05b03e0ee.png"></td>
 <td><img width="250" alt="capture3" src="https://user-images.githubusercontent.com/107881738/178278740-79924378-3c0b-4aa6-b06e-f86afbc3f521.png"></td>
+<td>[![Alt text](https://img.youtube.com/vi/VID/0.jpg)]([https://www.youtube.com/watch?v=VID](https://www.youtube.com/watch?v=2pLT-olgUJs&list=TLGGtidDM-YJzsExMDA3MjAyMg ))</td>
 </tr></table>
 
 ## Installation
