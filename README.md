@@ -4,9 +4,25 @@
 
 During the pandemic, many of us began to focus on our personal health. I found myself as one among many of my friends who found time to work out, eat better, drink water and mind our business. However, after some of the restrictions were lifted, I found myself slipping back into older, less beneficial habits. This project is one of many in my pursuit of a better work life balance. 
 ## Installation
-TODO: Describe the installation process
+If you use [conda](https://docs.conda.io/en/latest/), [mamba](https://mamba.readthedocs.io/en/latest/), or [pip](https://docs.python.org/3/installing/index.html), you can install JupyterLab with one of the following commands.
+
+- If you use conda:
+  ```shell
+  conda install -c conda-forge jupyterlab
+  ```
+- If you use mamba:
+  ```shell
+  mamba install -c conda-forge jupyterlab
+  ```
+- If you use pip:
+  ```shell
+  pip install jupyterlab
+  ```
+ 
 ## Usage
-TODO: Write usage instructions
+Navigate to the folder you want to use then call jupyter lab from command line
+run the notebook
+
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
