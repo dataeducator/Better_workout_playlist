@@ -28,8 +28,12 @@ If you use [conda](https://docs.conda.io/en/latest/), [mamba](https://mamba.read
   ```
  
 ## Usage
-Navigate to the folder you want to use then call jupyter lab from command line
-run the notebook
+Navigate to the folder you want to use then call
+
+ ```shell
+ jupyter lab 
+ ```
+from command line to run the notebook
 
 ## Contributing
 1. Fork it!
