@@ -2,11 +2,9 @@
   <content><![CDATA[
 # ${1:betterWorkout.ipynb}
 During the pandemic, many of us began to focus on our personal health. I found myself as one among many of my friends who found time to work out, eat better, drink water and mind our business. However, after some of the restrictions were lifted, I found myself slipping back into older, less beneficial habits. This project is one of many in my pursuit of a better work life balance. 
-
-
 <table><tr>
-<td><img width="250" alt="capture1" src="https://user-images.githubusercontent.com/107881738/178278737-5b4a6f4d-030d-484e-bba0-51b72d820a3f.png"></td>
-<td><img width="250" alt="capture3" src="https://user-images.githubusercontent.com/107881738/178278740-79924378-3c0b-4aa6-b06e-f86afbc3f521.png"></td>
+<td><img width="250" alt="capture1" src="https://user-images.githubusercontent.com/107881738/178278737-5b4a6f4d-030d-484e-bba0-51b72d820a3f.png" align = "center"</td>
+<td><img width="250" alt="capture3" src="https://user-images.githubusercontent.com/107881738/178278740-79924378-3c0b-4aa6-b06e-f86afbc3f521.png" align = "center"</td>
 </tr></table>
 
 ## Installation
