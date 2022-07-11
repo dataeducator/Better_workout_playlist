@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
 # ${{1:betterWorkout.ipynb}
-TODO: Write a project description
+
 
 During the pandemic, many of us began to focus on our personal health. I found myself as one among many of my friends who found time to work out, eat better, drink water and mind our business. However, after some of the restrictions were lifted, I found myself slipping back into older, less beneficial habits. This project is one of many in my pursuit of a better work life balance. 
 
