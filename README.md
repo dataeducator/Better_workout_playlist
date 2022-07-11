@@ -7,9 +7,8 @@ During the pandemic, many of us began to focus on our personal health. I found m
 <table><tr>
 <td><img width="250" alt="capture1" src="https://user-images.githubusercontent.com/107881738/178278737-5b4a6f4d-030d-484e-bba0-51b72d820a3f.png"></td>
 <td><img width="250" alt="capture3" src="https://user-images.githubusercontent.com/107881738/178278740-79924378-3c0b-4aa6-b06e-f86afbc3f521.png"></td>
-<td><img width="250" alt="capture4" src="https://user-images.githubusercontent.com/107881738/178284185-5c771615-294b-4a17-b049-963b3ede5082.png"></td>
 </tr></table>
-
+<img width="250" alt="capture4" src="https://user-images.githubusercontent.com/107881738/178284185-5c771615-294b-4a17-b049-963b3ede5082.png">
 ## Installation
 If you use [conda](https://docs.conda.io/en/latest/), [mamba](https://mamba.readthedocs.io/en/latest/), or [pip](https://docs.python.org/3/installing/index.html), you can install JupyterLab with one of the following commands.
 
