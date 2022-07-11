@@ -11,6 +11,8 @@ During the pandemic, many of us began to focus on our personal health. I found m
     <img width="32%" src="photos/pranksta2.jpg">
     <img width="32%" src="photos/pranksta3.jpg">
 </p>
+
+
 ## Installation
 If you use [conda](https://docs.conda.io/en/latest/), [mamba](https://mamba.readthedocs.io/en/latest/), or [pip](https://docs.python.org/3/installing/index.html), you can install JupyterLab with one of the following commands.
 
