@@ -7,7 +7,7 @@ During the pandemic, many of us began to focus on our personal health. I found m
 
 
 <p align="center" width="100%">
-    <img width="32%" src="photos/pranksta1.jpg">
+    <img width="32%"  alt="capture1" src="https://user-images.githubusercontent.com/107881738/178288707-eda49825-bede-4e33-89a4-1bddd292cc4c.png">
     <img width="32%" src="photos/pranksta2.jpg">
     <img width="32%" src="photos/pranksta3.jpg">
 </p>
