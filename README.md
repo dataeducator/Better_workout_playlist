@@ -30,11 +30,11 @@ run the notebook
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 ## History
--get API developer key
--webscrape data from youtube for channels of choice
--clean data
--explore data
--create playlist
+*get API developer key
+*webscrape data from youtube for channels of choice
+*clean data
+*explore data
+*create playlist
 ## Credits
 Thu Vu API project
 ## License
