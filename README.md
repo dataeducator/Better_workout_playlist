@@ -1,7 +1,9 @@
 <snippet>
   <content><![CDATA[
-${1:betterWorkout.ipynb}
-#During the pandemic, many of us began to focus on our personal health. I found myself as one among many of my friends who found time to work out, eat better, drink water and mind our business. However, after some of the restrictions were lifted, I found myself slipping back into older, less beneficial habits. This project is one of many in my pursuit of a better work life balance. 
+# ${{1:betterWorkout.ipynb}
+TODO: Write a project description
+
+During the pandemic, many of us began to focus on our personal health. I found myself as one among many of my friends who found time to work out, eat better, drink water and mind our business. However, after some of the restrictions were lifted, I found myself slipping back into older, less beneficial habits. This project is one of many in my pursuit of a better work life balance. 
 
 <p align="center" width="100%">
     <img width="25%" src="[https://user-images.githubusercontent.com/107881738/178278737-5b4a6f4d-030d-484e-bba0-51b72d820a3f.png]">
