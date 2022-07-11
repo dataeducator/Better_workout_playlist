@@ -39,9 +39,9 @@ run the notebook
 Thu Vu API project
 ## License
 This work is licensed under a
-Creative Commons Zero v1.0 Universal[cc-by].
+Creative Commons Zero v1.0 Universal.
 
-[cc-by]: https://creativecommons.org/publicdomain/zero/1.0/ []
+[cc-by]: https://creativecommons.org/publicdomain/zero/1.0/ 
 
 ></content>
   <tabTrigger>readme</tabTrigger>
