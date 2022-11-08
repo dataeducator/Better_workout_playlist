@@ -48,7 +48,7 @@ from command line to run the notebook
 * explore data
 * create playlist
 ## Credits
-Thu Vu API project
+Inspired by Thu Vu Youtube API 
 ## License
 This work is licensed under a
 Creative Commons Zero v1.0 Universal.
